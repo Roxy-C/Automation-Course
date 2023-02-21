@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RosFi\\source\\repos\\AmazonTesting\\AmazonTesting.csproj": {}
+    "C:\\Repos\\Automation-Course\\C# Mid Term Exercise\\AmazonTesting\\AmazonTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RosFi\\source\\repos\\AmazonTesting\\AmazonTesting.csproj": {
+    "C:\\Repos\\Automation-Course\\C# Mid Term Exercise\\AmazonTesting\\AmazonTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RosFi\\source\\repos\\AmazonTesting\\AmazonTesting.csproj",
+        "projectUniqueName": "C:\\Repos\\Automation-Course\\C# Mid Term Exercise\\AmazonTesting\\AmazonTesting.csproj",
         "projectName": "AmazonTesting",
-        "projectPath": "C:\\Users\\RosFi\\source\\repos\\AmazonTesting\\AmazonTesting.csproj",
+        "projectPath": "C:\\Repos\\Automation-Course\\C# Mid Term Exercise\\AmazonTesting\\AmazonTesting.csproj",
         "packagesPath": "C:\\Users\\RosFi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RosFi\\source\\repos\\AmazonTesting\\obj\\",
+        "outputPath": "C:\\Repos\\Automation-Course\\C# Mid Term Exercise\\AmazonTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RosFi\\AppData\\Roaming\\NuGet\\NuGet.Config",

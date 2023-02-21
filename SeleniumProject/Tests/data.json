@@ -1,0 +1,27 @@
+{
+      "positive_data": {
+        "first_name": "Ros",
+        "last_name": "Finkov",
+        "email": "Ros@gmail.com"
+      },
+      "negative_data_no_firstname": {
+        "first_name": "",
+        "last_name": "Johnson",
+        "email": "bob@gmail.com"
+      },
+      "negative_data_no_lastname": {
+        "first_name": "Tom",
+        "last_name": "",
+        "email": "Tom@gmail.com"
+      },
+      "negative_data_no_email": {
+        "first_name": "Hana",
+        "last_name": "Denis",
+        "email": "Han.gmail.com"
+      },
+      "negative_no_data": {
+        "first_name": "",
+        "last_name": "",
+        "email": ""
+      }
+  }
