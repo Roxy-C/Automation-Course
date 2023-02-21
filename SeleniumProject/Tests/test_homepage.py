@@ -130,12 +130,6 @@ class TestHomepage(unittest.TestCase):
         
     def test_checkboxes(self):
         locators = [
-            HPL.firstname_locator,
-            HPL.lastname_locator,
-            HPL.city_locator,
-            HPL.email_locator,
-            HPL.area_locator,
-            HPL.phone_locator,
             HPL.male_locator,
             HPL.female_locator,
             HPL.other_locator,
